@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,sbasnet3,Basnet,Soren
-employee, pwtseng, Tseng, Phoebe
+employee,pwtseng,Tseng,Phoebe
