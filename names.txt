@@ -2,3 +2,4 @@ role,NetID,LastName,FirstName
 boss,sbasnet3,Basnet,Soren
 employee,pwtseng,Tseng,Phoebe
 test
+employee,sacaceres,Caceres,Sofia
